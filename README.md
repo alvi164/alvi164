@@ -58,10 +58,11 @@ German corporate engineering ecosystems place an immense emphasis on communicati
 
 ## 📈 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvi164&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Alvi's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi164&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvi164&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" alt="Alvi's GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvi164&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="180px" />
+</div>
 
 ---
 
